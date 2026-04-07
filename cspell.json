@@ -1,0 +1,22 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "ignoreRegExpList": [
+    "/[\\u0600-\\u06FF]+/g"
+  ],
+  "words": [
+    "automod",
+    "Cooldown",
+    "discordapp",
+    "badwords",
+    "profan",
+    "kickable",
+    "moderatable",
+    "serverinfo",
+    "userinfo",
+    "leaderboard",
+    "rank",
+    "unmute",
+    "salam"
+  ]
+}
