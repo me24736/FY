@@ -1,0 +1,49 @@
+{
+  "1131626581383708763": {
+    "1489730739229561062": {
+      "textXp": 0,
+      "textLevel": 0,
+      "voiceXp": 0,
+      "voiceLevel": 0,
+      "lastTextXpAt": 1775420751122,
+      "stats": {
+        "textMessagesCounted": 0,
+        "voiceMinutesCounted": 0
+      }
+    },
+    "1096374000818597898": {
+      "textXp": 15,
+      "textLevel": 0,
+      "voiceXp": 15,
+      "voiceLevel": 0,
+      "lastTextXpAt": 1775563641590,
+      "stats": {
+        "textMessagesCounted": 3,
+        "voiceMinutesCounted": 5
+      },
+      "lastDailyGiftAt": 1775481996080
+    },
+    "1467617242387714109": {
+      "textXp": 0,
+      "textLevel": 0,
+      "voiceXp": 0,
+      "voiceLevel": 0,
+      "lastTextXpAt": 1775336092381,
+      "stats": {
+        "textMessagesCounted": 0,
+        "voiceMinutesCounted": 0
+      }
+    },
+    "949468074623516732": {
+      "textXp": 0,
+      "textLevel": 0,
+      "voiceXp": 0,
+      "voiceLevel": 0,
+      "lastTextXpAt": 0,
+      "stats": {
+        "textMessagesCounted": 0,
+        "voiceMinutesCounted": 0
+      }
+    }
+  }
+}
