@@ -13,9 +13,9 @@
     },
     "1096374000818597898": {
       "textXp": 15,
-      "textLevel": 0,
+      "textLevel": 100,
       "voiceXp": 15,
-      "voiceLevel": 0,
+      "voiceLevel": 100,
       "lastTextXpAt": 1775563641590,
       "stats": {
         "textMessagesCounted": 3,
